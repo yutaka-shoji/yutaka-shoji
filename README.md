@@ -19,7 +19,7 @@ Environmental System Research Lab., Graduate School of Engineering, Hokkaido Uni
 [Google Scholar](https://scholar.google.co.jp/citations?user=fQR2qG4AAAAJ&hl=ja&authuser=2)  
 [ORCiD](https://orcid.org/0000-0003-2532-6640)  
 [Individual Website](https://yutakashoji.netlify.app/about/)  
-[Twitter](https://twitter.com/yshoji_info)
+[Twitter](https://twitter.com/yshoji_tw)
 
 
 ## Contact
