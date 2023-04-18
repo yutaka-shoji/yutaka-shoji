@@ -2,18 +2,22 @@
 
 Shoji, Yutaka
 
-- Ph.D. Student (2020.04 &ndash; )  
-Environmental System Research Lab.,  
-Graduate School of Engineering, Hokkaido University
+## About
 
-- JSPS Research Fellow DC2 (2021.04 &ndash; )  
-["Development of simulation and control model for shallow geothermal system with arbitrary-condition ground heat exchanger", 2021.04 &ndash; 2023.03. (KAKEN, Grant-in-Aid for JSPS Fellows)](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J11799/)
+Shoji, Yutaka
+
+R&D in a company
 
 
-## Education
+## Education & History
 
-- Master of Engineering, Hokkaido University, 2020  
+- Ph.D. in Engineering, Hokkaido University, 2023
+- Master of Engineering, Hokkaido University, 2020
 - Bachelor of Engineering, Hokkaido University, 2018
+
+- JSPS Research Fellow DC2 (2021.04 &ndash; 2023.03)<br>
+["Development of simulation and control model for shallow geothermal system with arbitrary-condition ground heat exchanger", 2021.04 &ndash; 2023.03. (KAKEN, Grant-in-Aid for JSPS Fellows)](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J11799/)<br>
+
 
 
 ## Link
